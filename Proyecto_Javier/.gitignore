@@ -1,0 +1,4 @@
+pipfile
+
+__pycache__/
+*.pyc
